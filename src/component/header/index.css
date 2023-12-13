@@ -1,0 +1,25 @@
+.icon-cart{
+    border: 1px solid red;
+    border-radius: 100%;
+    background-color: red;
+    padding: 0 5px;
+    vertical-align:top ;
+    text-decoration: none;
+  font-size: 12px;
+  /* margin-top: 50px; */
+  position: absolute;
+  top:10px;
+}
+.fs-icon{
+    font-size: 20px;
+    position: relative;
+}
+.flex-nav{
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    align-items: center;
+    list-style: none; 
+    margin: 0 10px; 
+    width: 13%;
+}
